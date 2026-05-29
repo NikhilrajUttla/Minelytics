@@ -1,7 +1,7 @@
 # 🌱 Minelytics: An AI  Based Soil Classification and Emission Analytics
 
 ## 📌 Overview
-Minelytics AI is a Deep Learning-based Soil Type Classification system developed using CNN and LSTM architectures with TensorFlow and Streamlit.
+Minelytics An AI(DeepLearning) based Soil Type Classification and Emission Analytics developed using CNN and LSTM architectures with TensorFlow and Streamlit.
 
 The application predicts soil types from uploaded soil images through an interactive web interface.
 
@@ -48,8 +48,6 @@ streamlit run CNN_Frodev.py
 
 ## 📸 Output
 
-## 📸 Output
-
 ### CNN Soil Classification Homepage
 
 <p align="center">
@@ -85,8 +83,6 @@ streamlit run CNN_Frodev.py
 ---
 
 ## 👨‍💻 Author
-Nikhil Raj Uttla
-
 Nikhil Raj Uttla
 
 AI | Machine Learning | Deep Learning | GenAI
